@@ -1,8 +1,8 @@
 {
   "zip": "https://asdasd.com",
   "highlightedLines": {
-    "index.html": "1,2",
-    "server.js": "3",
-    "styles.css": "4"
+    "index.html": "1,3",
+    "server.js": "4",
+    "styles.css": "1"
   }
 }
