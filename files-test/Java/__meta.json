@@ -1,8 +1,0 @@
-{
-  "zip": "https://www.learningcontainer.com/wp-content/uploads/2020/05/sample-zip-file.zip",
-  "highlightedLines": {
-    "index.html": "1,2",
-    "server.java": "2",
-    "styles.css": "4"
-  }
-}
